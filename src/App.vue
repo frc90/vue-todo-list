@@ -1,6 +1,6 @@
 
 <template>
-  <div class="container mt-5 text-center">
+  <div class="container mt-5">
     <ul class="nav justify-content-center">
       <li class="nav-item">
         <router-link class="nav-link" to="/">Home</router-link>
